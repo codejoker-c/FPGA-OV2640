@@ -23,7 +23,7 @@ module bluetooth(
         begin
             buffer_0<=get;
             buffer_1<=buffer_0;
-            buffer_2<=buffer_1;
+            buffer_2<=buffer_1
         end
     end
 
